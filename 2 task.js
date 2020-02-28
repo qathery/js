@@ -1,0 +1,1 @@
+document.body.innerHTML= 6.35.toFixed(1)+"<br>"+Math.round(6.35 * 10) / 10;
